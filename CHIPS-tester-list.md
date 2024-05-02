@@ -3,7 +3,7 @@
 ## Ecosystem Testing of CHIPS
 
 The purpose of this page is to consolidate testing information which is currently distributed across various GitHub issues, company blogs, social posts, etc.
-The usefulness of this page depends on testers sharing information and updates.
+The usefulness of this page depends on testers sharing information and updates. 
 
 ## Disclaimers
 
